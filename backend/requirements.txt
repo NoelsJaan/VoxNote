@@ -11,4 +11,5 @@ celery==5.4.0
 redis==5.1.1
 python-dotenv==1.0.1
 pydantic-settings==2.5.2
+email-validator==2.2.0
 aiofiles==24.1.0
